@@ -8,9 +8,7 @@ Thanks, Dollar and Real and CustomNPC!
 # Dev
 npm run dev
 
-# Start
-npm run start
-
-# Build
+# Build and Start
 npm run build
+npm run start
 ```
