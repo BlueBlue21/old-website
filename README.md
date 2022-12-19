@@ -1,8 +1,8 @@
-# Welcome to My Website 👋
+# My Website 📘
 
-Made with Next.js (Typescript) and Tailwind
+Made with Typescript based Next.js and Tailwind
 
-Thanks, Dollar and Real and CustomNPC!
+Thanks, Dollar and Real and CustomNPC.
 
 ```bash
 # Dev
